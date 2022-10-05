@@ -32,10 +32,13 @@ public class Pattern {
 //        p11.print(n);
 //        Pattern12 p12 = new Pattern12();
 //        p12.print(n);
-        Pattern13 p13 = new Pattern13();
-        p13.print(n);
+//        Pattern13 p13 = new Pattern13();
+//        p13.print(n);
+//        Pattern14 p14 = new Pattern14();
+//        p14.print(n);
 
-
+        Pattern15 p15 = new Pattern15();
+        p15.print(n);
 
         timer.endTime();
     }
