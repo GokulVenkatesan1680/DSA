@@ -37,8 +37,16 @@ public class Pattern {
 //        Pattern14 p14 = new Pattern14();
 //        p14.print(n);
 
-        Pattern15 p15 = new Pattern15();
-        p15.print(n);
+//        Pattern15 p15 = new Pattern15();
+//        p15.print(n);
+//        Pattern16 p16 = new Pattern16();
+//        p16.print(n);
+//        Pattern17 p17 = new Pattern17();
+//        p17.print(n);
+//        Pattern18 p18 = new Pattern18();
+//        p18.print(n);
+        Pattern19 p19 = new Pattern19();
+        p19.print(n);
 
         timer.endTime();
     }
