@@ -45,9 +45,12 @@ public class Pattern {
 //        p17.print(n);
 //        Pattern18 p18 = new Pattern18();
 //        p18.print(n);
-        Pattern19 p19 = new Pattern19();
-        p19.print(n);
-
+//        Pattern19 p19 = new Pattern19();
+//        p19.print(n);
+//        Pattern20 p20 = new Pattern20();
+//        p20.print(n);
+        Pattern21 p21 = new Pattern21();
+        p21.print(n);
         timer.endTime();
     }
 }
