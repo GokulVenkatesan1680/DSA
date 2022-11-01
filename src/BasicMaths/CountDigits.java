@@ -1,7 +1,7 @@
 package BasicMaths;
 
 import CommonUtil.CustomInput;
-
+//Given a number n. Count the number of digits in n which evenly divides n.
 public class CountDigits {
     public static void main(String[] args) {
         CustomInput input = new CustomInput();
